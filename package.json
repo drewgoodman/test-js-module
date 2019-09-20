@@ -1,0 +1,25 @@
+{
+  "name": "test-js-module",
+  "version": "0.1.0",
+  "description": "Test module - dynamic footer that's generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdogm13/test-js-module.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Drew Goodman <drg6525@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdogm13/test-js-module/issues"
+  },
+  "homepage": "https://github.com/rdogm13/test-js-module#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
